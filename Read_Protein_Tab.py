@@ -10,7 +10,7 @@ import csv
 filename = input("Enter filename location:")
 
 with open(filename) as file:
-    f = open("filtered_protein_data.txt", 'w')
+    f = open("Filtered " + filename + " Data.txt", 'w')
     for line in csv.reader(file, delimiter="\t"):
         f.writelines(line[1] + '\t')
         f.writelines(line[3] + '\t') 
