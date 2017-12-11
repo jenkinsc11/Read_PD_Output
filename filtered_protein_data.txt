@@ -1,0 +1,75 @@
+Protein FDR Confidence	Accession	Description	Coverage	# PSMs	# Unique Peptides	# AAs	MW [kDa]	
+High	Q9BY77	Polymerase delta-interacting protein 3 OS=Homo sapiens GN=POLDIP3 PE=1 SV=2	38.479809976247	30	13	421	46.1	
+High	Q14980	Nuclear mitotic apparatus protein 1 OS=Homo sapiens GN=NUMA1 PE=1 SV=2	11.3475177304965	26	22	2115	238.1	
+High	P62829	60S ribosomal protein L23 OS=Homo sapiens GN=RPL23 PE=1 SV=1	20.7142857142857	22	5	140	14.9	
+High	E7EVA0	Microtubule-associated protein OS=Homo sapiens GN=MAP4 PE=1 SV=1	8.22812363952982	24	13	2297	245.3	
+High	P04264	Keratin, type II cytoskeletal 1 OS=Homo sapiens GN=KRT1 PE=1 SV=6	20.8074534161491	22	12	644	66.0	
+High	P13645	Keratin, type I cytoskeletal 10 OS=Homo sapiens GN=KRT10 PE=1 SV=6	15.2397260273973	14	7	584	58.8	
+High	P60709	Actin, cytoplasmic 1 OS=Homo sapiens GN=ACTB PE=1 SV=1	36.5333333333333	13	10	375	41.7	
+High	A0A087WZ40	Ensconsin OS=Homo sapiens GN=MAP7 PE=1 SV=1	14.6341463414634	10	8	779	87.8	
+High	P18615	Negative elongation factor E OS=Homo sapiens GN=NELFE PE=1 SV=3	27.8947368421053	9	8	380	43.2	
+High	Q8WX92	Negative elongation factor B OS=Homo sapiens GN=NELFB PE=1 SV=1	12.5862068965517	9	8	580	65.7	
+High	P42677	40S ribosomal protein S27 OS=Homo sapiens GN=RPS27 PE=1 SV=3	30.952380952381	10	3	84	9.5	
+High	Q7KZI7	Serine/threonine-protein kinase MARK2 OS=Homo sapiens GN=MARK2 PE=1 SV=2	11.6751269035533	6	5	788	87.9	
+High	P63173	60S ribosomal protein L38 OS=Homo sapiens GN=RPL38 PE=1 SV=2	52.8571428571429	18	4	70	8.2	
+High	P35908	Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens GN=KRT2 PE=1 SV=2	14.8669796557121	11	6	639	65.4	
+High	A0A0C4DFX9	Negative elongation factor A OS=Homo sapiens GN=NELFA PE=1 SV=1	18.5528756957328	10	6	539	58.5	
+High	Q7Z417	Nuclear fragile X mental retardation-interacting protein 2 OS=Homo sapiens GN=NUFIP2 PE=1 SV=1	7.48201438848921	5	4	695	76.1	
+High	Q9H2P0	Activity-dependent neuroprotector homeobox protein OS=Homo sapiens GN=ADNP PE=1 SV=1	7.16878402903811	9	7	1102	123.5	
+High	H0YMV8	40S ribosomal protein S27 OS=Homo sapiens GN=RPS27L PE=1 SV=1	26	4	1	100	11.3	
+High	O60563	Cyclin-T1 OS=Homo sapiens GN=CCNT1 PE=1 SV=1	6.06060606060606	5	3	726	80.6	
+High	P02533	Keratin, type I cytoskeletal 14 OS=Homo sapiens GN=KRT14 PE=1 SV=4	10.3813559322034	6	2	472	51.5	
+High	P35527	Keratin, type I cytoskeletal 9 OS=Homo sapiens GN=KRT9 PE=1 SV=3	11.8780096308186	6	6	623	62.0	
+High	Q8N0T1	Uncharacterized protein C8orf59 OS=Homo sapiens GN=C8orf59 PE=1 SV=4	33	7	4	100	11.4	
+High	Q96EV2	RNA-binding protein 33 OS=Homo sapiens GN=RBM33 PE=1 SV=3	5.72649572649573	7	5	1170	129.9	
+High	H0Y8C2	60S ribosomal protein L22-like 1 (Fragment) OS=Homo sapiens GN=RPL22L1 PE=1 SV=1	16.9014084507042	4	2	142	16.9	
+High	P05787	Keratin, type II cytoskeletal 8 OS=Homo sapiens GN=KRT8 PE=1 SV=7	11.1801242236025	6	4	483	53.7	
+High	A0A087WV73	Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase OS=Homo sapiens GN=NOP2 PE=1 SV=1	5.84795321637427	4	4	855	94.0	
+High	E7EW20	Unconventional myosin-VI OS=Homo sapiens GN=MYO6 PE=1 SV=2	4.63320463320463	6	6	1295	149.8	
+High	Q99700	Ataxin-2 OS=Homo sapiens GN=ATXN2 PE=1 SV=2	2.20868240670221	3	2	1313	140.2	
+High	Q6P1L8	39S ribosomal protein L14, mitochondrial OS=Homo sapiens GN=MRPL14 PE=1 SV=1	11.0344827586207	9	2	145	15.9	
+High	Q9UQN3	Charged multivesicular body protein 2b OS=Homo sapiens GN=CHMP2B PE=1 SV=1	5.63380281690141	3	2	213	23.9	
+High	P0C0S5	Histone H2A.Z OS=Homo sapiens GN=H2AFZ PE=1 SV=2	16.40625	7	1	128	13.5	
+High	P62805	Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	21.3592233009709	7	2	103	11.4	
+High	P62081	40S ribosomal protein S7 OS=Homo sapiens GN=RPS7 PE=1 SV=1	9.79381443298969	3	3	194	22.1	
+High	P62269	40S ribosomal protein S18 OS=Homo sapiens GN=RPS18 PE=1 SV=3	15.7894736842105	3	3	152	17.7	
+High	O00488	Zinc finger protein 593 OS=Homo sapiens GN=ZNF593 PE=1 SV=2	23.8805970149254	3	3	134	15.2	
+High	Q9P270	SLAIN motif-containing protein 2 OS=Homo sapiens GN=SLAIN2 PE=1 SV=2	8.43373493975904	4	3	581	62.5	
+High	P19823	Inter-alpha-trypsin inhibitor heavy chain H2 OS=Homo sapiens GN=ITIH2 PE=1 SV=2	2.85412262156448	2	2	946	106.4	
+High	P05783	Keratin, type I cytoskeletal 18 OS=Homo sapiens GN=KRT18 PE=1 SV=2	9.30232558139535	4	3	430	48.0	
+High	P22087	rRNA 2'-O-methyltransferase fibrillarin OS=Homo sapiens GN=FBL PE=1 SV=2	8.41121495327103	3	2	321	33.8	
+High	P13647	Keratin, type II cytoskeletal 5 OS=Homo sapiens GN=KRT5 PE=1 SV=3	5.59322033898305	4	2	590	62.3	
+High	O95235	Kinesin-like protein KIF20A OS=Homo sapiens GN=KIF20A PE=1 SV=1	2.92134831460674	3	2	890	100.2	
+High	P02768	Serum albumin OS=Homo sapiens GN=ALB PE=1 SV=2	2.79146141215107	9	2	609	69.3	
+High	Q9BW19	Kinesin-like protein KIFC1 OS=Homo sapiens GN=KIFC1 PE=1 SV=2	4.01188707280832	2	2	673	73.7	
+High	A0A0A0MRM9	Nucleolar and coiled-body phosphoprotein 1 (Fragment) OS=Homo sapiens GN=NOLC1 PE=1 SV=1	2.96610169491525	2	2	708	74.6	
+High	P06310	Ig kappa chain V-II region RPMI 6410 OS=Homo sapiens PE=4 SV=1	9.77443609022556	2	1	133	14.7	
+High	Q9H6K5	Proline-rich protein 36 OS=Homo sapiens GN=PRR36 PE=1 SV=2	2.4517087667162	2	2	1346	132.7	
+High	Q9NX20	39S ribosomal protein L16, mitochondrial OS=Homo sapiens GN=MRPL16 PE=1 SV=1	12.3505976095618	5	3	251	28.4	
+High	Q86YZ3	Hornerin OS=Homo sapiens GN=HRNR PE=1 SV=2	1.68421052631579	1	1	2850	282.2	
+High	P06396	Gelsolin OS=Homo sapiens GN=GSN PE=1 SV=1	2.55754475703325	2	2	782	85.6	
+High	P11137	Microtubule-associated protein 2 OS=Homo sapiens GN=MAP2 PE=1 SV=4	1.97044334975369	3	3	1827	199.4	
+High	P04908	Histone H2A type 1-B/E OS=Homo sapiens GN=HIST1H2AB PE=1 SV=2	13.8461538461538	2	1	130	14.1	
+High	Q8IYL3	UPF0688 protein C1orf174 OS=Homo sapiens GN=C1orf174 PE=1 SV=2	5.76131687242798	1	1	243	26.0	
+High	I3L156	Protein FAM64A OS=Homo sapiens GN=FAM64A PE=1 SV=2	6.09318996415771	1	1	279	30.9	
+High	H3BN98	Uncharacterized protein (Fragment) OS=Homo sapiens PE=4 SV=2	8.86075949367089	3	2	237	27.2	
+High	P0C7P0	CDGSH iron-sulfur domain-containing protein 3, mitochondrial OS=Homo sapiens GN=CISD3 PE=1 SV=1	8.66141732283465	1	1	127	14.2	
+High	S4R435	Protein RPS10-NUDT3 (Fragment) OS=Homo sapiens GN=RPS10-NUDT3 PE=3 SV=1	5.59440559440559	2	1	286	32.6	
+High	P78316	Nucleolar protein 14 OS=Homo sapiens GN=NOP14 PE=1 SV=3	2.33372228704784	2	2	857	97.6	
+High	P47914	60S ribosomal protein L29 OS=Homo sapiens GN=RPL29 PE=1 SV=2	9.43396226415094	1	1	159	17.7	
+High	Q14684	Ribosomal RNA processing protein 1 homolog B OS=Homo sapiens GN=RRP1B PE=1 SV=3	3.82585751978892	2	2	758	84.4	
+High	P07996	Thrombospondin-1 OS=Homo sapiens GN=THBS1 PE=1 SV=2	1.02564102564103	1	1	1170	129.3	
+High	P0C0S8	Histone H2A type 1 OS=Homo sapiens GN=HIST1H2AG PE=1 SV=2	13.8461538461538	2	1	130	14.1	
+High	P23246	Splicing factor, proline- and glutamine-rich OS=Homo sapiens GN=SFPQ PE=1 SV=2	2.12164073550212	1	1	707	76.1	
+High	Q9Y5J1	U3 small nucleolar RNA-associated protein 18 homolog OS=Homo sapiens GN=UTP18 PE=1 SV=3	3.23741007194245	1	1	556	62.0	
+High	I3L0U5	Coiled-coil domain-containing protein 137 (Fragment) OS=Homo sapiens GN=CCDC137 PE=1 SV=1	3.42465753424658	1	1	292	33.5	
+High	Q9UNZ5	Leydig cell tumor 10 kDa protein homolog OS=Homo sapiens GN=C19orf53 PE=1 SV=1	16.1616161616162	3	2	99	10.6	
+High	Q8N5A5	Zinc finger CCCH-type with G patch domain-containing protein OS=Homo sapiens GN=ZGPAT PE=1 SV=3	5.27306967984934	2	2	531	57.3	
+High	P02545	Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1	2.40963855421687	1	1	664	74.1	
+High	Q9Y3Y2	Chromatin target of PRMT1 protein OS=Homo sapiens GN=CHTOP PE=1 SV=2	5.24193548387097	1	1	248	26.4	
+High	B7Z6Z4	Myosin light polypeptide 6 OS=Homo sapiens GN=MYL6 PE=1 SV=1	5.46218487394958	1	1	238	26.7	
+High	O15235	28S ribosomal protein S12, mitochondrial OS=Homo sapiens GN=MRPS12 PE=1 SV=1	8.69565217391304	2	2	138	15.2	
+High	P01024	Complement C3 OS=Homo sapiens GN=C3 PE=1 SV=2	0.721587492483464	1	1	1663	187.0	
+High	Q6PGN9	Proline/serine-rich coiled-coil protein 1 OS=Homo sapiens GN=PSRC1 PE=1 SV=1	6.61157024793388	2	2	363	38.8	
+High	J3KQY1	39S ribosomal protein L22, mitochondrial OS=Homo sapiens GN=MRPL22 PE=1 SV=1	5.60344827586207	2	1	232	26.5	
+High	P02452	Collagen alpha-1(I) chain OS=Homo sapiens GN=COL1A1 PE=1 SV=5	0.956284153005465	1
